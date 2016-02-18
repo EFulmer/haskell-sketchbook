@@ -1,5 +1,4 @@
 module GuessingGame where
-import Control.Monad (forever)
 import System.Random (randomRIO)
 import Text.Read (readMaybe)
 
